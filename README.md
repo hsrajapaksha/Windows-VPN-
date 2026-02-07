@@ -6,6 +6,10 @@ This project demonstrates a complete **VPN (Dial-Up) implementation** using **Wi
 
 This repository is intended for **educational, lab, and small enterprise use**.
 
+
+
+
+
 ---
 
 ## Technologies Used
@@ -15,6 +19,9 @@ This repository is intended for **educational, lab, and small enterprise use**.
 - Active Directory
 - Internet Router (Port Forwarding)
 - Load Balancer
+
+
+
 
 ---
 
@@ -27,17 +34,16 @@ This repository is intended for **educational, lab, and small enterprise use**.
 - Load balancer traffic forwarding to VPN server
 - Simple and clear network connectivity design
 
+
+
+
+
 ---
 
 ## Network Flow
 VPN Client → Internet → Router (Port 1723) → Load Balancer → VPN Server → Internal Network
 
----
 
-## Repository Structure
-- `docs/` – Step-by-step VPN user guide (PDF / Markdown)
-- `diagrams/` – Network topology and connectivity diagrams
-- `configs/` – Configuration notes and references
 
 ---
 
@@ -48,5 +54,7 @@ VPN Client → Internet → Router (Port 1723) → Load Balancer → VPN Server 
 4. Configure load balancer to forward traffic to VPN server
 5. Create VPN connection on Windows 11 client
 6. Test VPN connectivity
+
+
 
 ---
