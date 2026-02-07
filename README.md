@@ -55,6 +55,7 @@ VPN Client → Internet → Router (Port 1723) → Load Balancer → VPN Server 
 5. Create VPN connection on Windows 11 client
 6. Test VPN connectivity
 
+<img width="1841" height="882" alt="vpn connection 2 " src="https://github.com/user-attachments/assets/4505509b-4a12-4623-844f-b2e27adf339c" />
 
 
 ---
